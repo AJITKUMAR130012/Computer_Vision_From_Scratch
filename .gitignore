@@ -1,0 +1,8 @@
+# Ignore data, virtual environment, and wandb folders
+Data/
+venv/
+wandb/
+
+# Optional: Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
